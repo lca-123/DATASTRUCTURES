@@ -1,6 +1,6 @@
 ## 数据结构学习资料
 
-### 数据结构
+### 1.数据结构
 
 - graph
 - hashtable
@@ -13,7 +13,7 @@
 - stack
 - tree
 
-### 基础算法
+### 2.基础算法
 
 - binarysearchnorecursion
 - dac
